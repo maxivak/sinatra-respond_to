@@ -5,9 +5,9 @@ Gem::Specification.new do |s|
   s.name        = 'sinatra-respond_to'
   s.version     = Sinatra::RespondTo::Version
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ['Chris Hoffman']
-  s.email       = ['cehoffman@gmail.com']
-  s.homepage    = 'http://github.com/cehoffman/sinatra-respond_to'
+  s.authors     = ['Chris Hoffman', 'Max Ivak']
+  s.email       = ['maxivak@gmail.com']
+  s.homepage    = 'http://github.com/maxivak/sinatra-respond_to'
   s.summary     = 'A respond_to style Rails block for baked-in web service support in Sinatra'
 
   s.add_runtime_dependency 'sinatra', '~> 1.3'
