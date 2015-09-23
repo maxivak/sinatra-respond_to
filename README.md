@@ -1,5 +1,6 @@
-# sinatra-respond\_to
+# sinatra-respond_to
 
+Fork of
 * http://www.github.com/cehoffman/sinatra-respond\_to
 
 ## DESCRIPTION:
